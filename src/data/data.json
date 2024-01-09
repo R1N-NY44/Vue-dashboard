@@ -1,0 +1,6 @@
+
+[
+    { "id": 1, "judul": "Post 1", "deskripsi": "Deskripsi post 1" },
+    { "id": 2, "judul": "Post 2", "deskripsi": "Deskripsi post 2" },
+    { "id": 3, "judul": "Post 3", "deskripsi": "Deskripsi post 3" }
+]
